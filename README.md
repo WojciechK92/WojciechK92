@@ -6,8 +6,6 @@ I aspire to become a web developer. My dream is to become a backend developer, a
 
 For the past 5 years, I have been designing machines and robotic production lines using Siemens control and Fanuc robots. 
 
-Collaborating with machine programmers during project implementation instilled in me a passion for programming, which became the catalyst for a difficult but necessary decision to change industries.
-
 Collaborating with machine programmers during project implementation instilled in me a passion for programming, which became the catalyst for a difficult but necessary decision to change industries. 
 My experience includes the implementation of large, complex, and innovative projects. My career path attests to the fact that I am a responsible and committed individual. I can accept constructive criticism, admit mistakes, and ask others for help.
 
